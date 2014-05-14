@@ -18,6 +18,5 @@ python3 horp6.py
 
 HORP
 ----
-
-http://www.aph.gov.au/About_Parliament/House_of_Representatives/Powers_practice_and_procedure/Practice6
+[House of Representatives Practice (6th Ed.)](http://www.aph.gov.au/About_Parliament/House_of_Representatives/Powers_practice_and_procedure/Practice6) at APH.
 
