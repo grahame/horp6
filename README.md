@@ -8,8 +8,7 @@ Requires:
  * python3, with lxml and requests installed
  * pdftk
 
-If you want the PDF without running this, here's the output as of 14/05/2014:
-https://dl.dropboxusercontent.com/u/10671102/horp6.pdf
+If you want the PDF without running this, [here's the resulting PDF](https://dl.dropboxusercontent.com/u/10671102/horp6.pdf) as at 14/05/2014.
 
 Usage
 -----
